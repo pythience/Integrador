@@ -2,8 +2,6 @@
 
 ##Trabajo Integrador
 
-![](https://www.ausa.com.ar/wp-content/themes/ausa/images/logo-ausa-negro.png)
-
 ##Seguridad Vial Autopistas Ausa 
 
 ###Introducción
