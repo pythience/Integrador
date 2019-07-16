@@ -1,8 +1,13 @@
 #Data Science 2019 - Digital House /Data
+
 ##Trabajo Integrador
+
 ![](https://www.ausa.com.ar/wp-content/themes/ausa/images/logo-ausa-negro.png)
+
 ##Seguridad Vial Autopistas Ausa 
+
 ###Introducción
+
 ####Información de hechos que requirieron atención por parte de Seguridad de Vial de AUSA.
 
 El dataset consiste en vectores de características que pertenecen a 5700+ incidentes o hechos que requirieron atención por parte de Seguridad de Vial de AUSA. 
